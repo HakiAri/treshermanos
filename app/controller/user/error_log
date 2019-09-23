@@ -1,0 +1,8 @@
+[12-Mar-2019 02:56:09 Etc/GMT] PHP Notice:  Undefined index: user_login_status in /home/hakiajfa/public_html/ayacucho/app/controller/user/roles_usuario.php on line 4
+[12-Mar-2019 16:16:37 Etc/GMT] PHP Notice:  Undefined index: user_login_status in /home/hakiajfa/public_html/ayacucho/app/controller/user/perfil.php on line 4
+[13-Mar-2019 18:19:15 Etc/GMT] PHP Notice:  Undefined index: user_login_status in /home/hakiajfa/public_html/ayacucho/app/controller/user/perfil.php on line 4
+[23-Mar-2019 22:04:50 Etc/GMT] PHP Notice:  Undefined index: citaciones in /home/hakiajfa/public_html/ayacucho/public/views/template/left_menu.php on line 66
+[26-Mar-2019 06:24:36 Etc/GMT] PHP Notice:  Undefined index: user_login_status in /home/hakiajfa/public_html/ayacucho/app/controller/user/roles_usuario.php on line 4
+[26-Apr-2019 05:46:00 Etc/GMT] PHP Notice:  Undefined index: user_login_status in /home/hakiajfa/public_html/ayacucho/app/controller/user/roles_usuario.php on line 4
+[27-May-2019 07:29:13 Etc/GMT] PHP Notice:  Undefined index: user_login_status in /home/hakiajfa/public_html/ayacucho/app/controller/user/roles_usuario.php on line 4
+[27-Jun-2019 06:52:08 Etc/GMT] PHP Notice:  Undefined index: user_login_status in /home/hakiajfa/public_html/ayacucho/app/controller/user/roles_usuario.php on line 4

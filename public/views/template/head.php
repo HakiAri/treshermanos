@@ -1,0 +1,39 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta name="description" content="Sistema de seguimiento de kardex academico">
+<meta name="Haki-Ari" content="Desarrollo de software">
+<link rel="shortcut icon" href="<?php echo ROOT; ?>resources/assets/images/simbolo.png" type="image/png">
+
+<title><?php echo $titulo ?></title>
+
+<!--common-->
+<link href="<?php echo ROOT; ?>resources/assets/css/style.css" rel="stylesheet">
+<link href="<?php echo ROOT; ?>resources/assets/css/style-responsive.css" rel="stylesheet">
+<!--dynamic table-->
+<link href="<?php echo ROOT; ?>resources/assets/js/advanced-datatable/css/demo_page.css" rel="stylesheet" />
+<link href="<?php echo ROOT; ?>resources/assets/js/advanced-datatable/css/demo_table.css" rel="stylesheet" />
+<link rel="stylesheet" href="<?php echo ROOT; ?>resources/assets/js/data-tables/DT_bootstrap.css" />
+
+
+<link href="<?php echo ROOT; ?>resources/assets/css/style-responsive.css" rel="stylesheet">
+<link rel="stylesheet" href="<?php echo ROOT; ?>resources/assets/css/toastr.min.css">
+
+<!-- estilo reloj -->
+<link rel="stylesheet" href="<?php echo ROOT; ?>resources/assets/css/estilo.css">
+<link rel="stylesheet" href="<?php echo ROOT; ?>resources/assets/css/estilo1.css">
+
+<!-- estilo del select choosen -->
+<link rel="stylesheet" href="<?php echo ROOT; ?>resources/assets/css/chosen.min.css">
+
+<!--pickers css-->
+<link rel="stylesheet" type="text/css" href="<?php echo ROOT; ?>resources/assets/js/bootstrap-datepicker/css/datepicker-custom.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo ROOT; ?>resources/assets/js/bootstrap-timepicker/css/timepicker.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo ROOT; ?>resources/assets/js/bootstrap-colorpicker/css/colorpicker.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo ROOT; ?>resources/assets/js/bootstrap-daterangepicker/daterangepicker-bs3.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo ROOT; ?>resources/assets/js/bootstrap-datetimepicker/css/datetimepicker-custom.css" />
+
+
+
+<script src="<?php echo ROOT; ?>resources/assets/js/jquery-1.10.2.min.js"></script>
+<!--char js para graficos estadisdicos-->
+<script src="<?php echo ROOT; ?>resources/assets/js/chartjs/Chart.bundle.min.js"></script>
