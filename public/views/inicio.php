@@ -23,8 +23,8 @@
                         <i class="fa fa-tags"></i>
                     </div>
                     <div class="state-value">
-                           <a href="<?php echo ROOT_CONTROLLER; ?>stock/" >
-                            <div class="title"><H5 style="color:white;">Stock</H5></div>
+                           <a href="<?php echo ROOT; ?>resources/assets/app/3hermanos.apk" >
+                            <div class="title"><H5 style="color:white;">App Tres Hermanos</H5></div>
                         </a>
                     </div>
                 </div>
